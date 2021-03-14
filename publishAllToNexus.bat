@@ -29,3 +29,4 @@ call sbt "project sackfixmessages50sp1modified" publishSigned
 call sbt "project sackfixmessages50sp2" publishSigned
 
 call sbt "project sackfixmessages50sp2modified" publishSigned
+
