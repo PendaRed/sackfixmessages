@@ -1,9 +1,9 @@
-addSbtPlugin("org.scoverage" % "sbt-scoverage" % "1.3.5")
+addSbtPlugin("org.scoverage" % "sbt-scoverage" % "1.6.1")
 
 // Publishing to maven central via OSFF
 // https://github.com/xerial/sbt-sonatype
-addSbtPlugin("org.xerial.sbt" % "sbt-sonatype" % "1.1")
+addSbtPlugin("org.xerial.sbt" % "sbt-sonatype" % "3.9.5")
 
-// Added to /users/<yourname>/.sbt/0.13/plugins/pgp.sbt
-// addSbtPlugin("com.jsuereth" % "sbt-pgp" % "1.0.0")
+// Added to /users/<yourname>/.sbt/1.0/plugins/pgp.sbt
+//addSbtPlugin("com.github.sbt" % "sbt-pgp" % "2.1.2")
 
