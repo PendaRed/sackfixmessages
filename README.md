@@ -1,4 +1,4 @@
-<a href="http://www.sackfix.org/"><img src ="http://www.sackfix.org/assets/sf_logo.png" /></a>
+<a href="https://pendared.github.io/sackfix/"><img src ="https://pendared.github.io/sackfix/assets/sf_logo.png" /></a>
 
 # SackFix
 
@@ -12,7 +12,7 @@ To get started simply download the [examples project](https://github.com/PendaRe
 * [Messages](https://github.com/PendaRed/sackfixmessages): Code generated Fix Messages for all versions of fix.
 * [Common](https://github.com/PendaRed/sackfix): The code generator and common classes - including all the code generated Fields.
 
-Full documentation is at [SackFix.org](http://www.sackfix.org/).
+Full documentation is at the [github pages](https://pendared.github.io/sackfix/).
 
 ## Versions
 
@@ -37,4 +37,4 @@ Please visit [sackfix.org](http://www.sackfix.org) for instructions on how to ru
 Best wishes,
 Jonathan
 
-<a href="http://www.sackfix.org/"><img src ="http://www.sackfix.org/assets/sackfix.png" /></a>
+<a href="https://pendared.github.io/sackfix/"><img src ="https://pendared.github.io/sackfix/assets/sackfix.png" /></a>
