@@ -32,7 +32,7 @@ SackFix is a Scala session layer fix implememtion.   This project includes all o
 They are all immutable, and can be rendered toString as human readable, or to Fix.  They also have decoders to hook into the session layer 
 which can turn incoming fix into the correct message.
 
-Please visit [sackfix.org](http://www.sackfix.org) for instructions on how to run the example initiator and acceptor.
+Please visit the [github pages](http://https://pendared.github.io/sackfix/) for instructions on how to run the initiator and acceptor.
 
 Best wishes,
 Jonathan
